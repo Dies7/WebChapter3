@@ -82,11 +82,10 @@ ul#topics li {
 
 ul#topics li:first-of-type {
   margin-left: 7.75%;
-  margin-right: 7.75%;
 }
 
 ul#topics li:last-of-type {
-
+  margin-right: 7.75%;
 }
 
 ul#topics li img {
